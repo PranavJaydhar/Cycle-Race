@@ -1,2 +1,2 @@
-# Cycle-race-2
+# Cycle-race
 Game
